@@ -1,7 +1,7 @@
 # csc-221-group-project
 CSC-221 Group Project (Group 8)
 
-__Owner:__ R. BRANDON MIRACLE -- rbmiracle@my.waketech.edu
+__Owner:__ Eric Meehan
 
 __Project Description:__ This is a Python webscraping program that collects data from a webpage. It uses Matplotlib to visually display the collected data.
 
