@@ -11,4 +11,4 @@ __Collaborators:__
   - Eric Meehan
   - Ismael Mercado
   - Brandon Miracle
-  - Kai McGregor krmcgregor1@my.waketech.edu Accepted
+  - Kai McGregor krmcgregor1@my.waketech.edu - Accepted
