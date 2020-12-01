@@ -11,4 +11,4 @@ __Collaborators:__
   - Eric Meehan
   - Ismael Mercado
   - Brandon Miracle
-  - student4
+  - Kai McGregor
