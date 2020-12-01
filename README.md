@@ -9,6 +9,6 @@ __Webscraped URL:__ [Wiki Page for VA](https://en.wikipedia.org/wiki/Virginia)
 
 __Collaborators:__
   - Eric Meehan
-  - student2
-  - student3
+  - Ismael Mercado
+  - Brandon Miracle
   - student4
