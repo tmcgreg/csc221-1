@@ -12,3 +12,4 @@ __Collaborators:__
   - Ismael Mercado imercadovazquez@my.waketech.edu - Accepted
   - Brandon Miracle
   - Kai McGregor krmcgregor1@my.waketech.edu - Accepted
+  - Tristan McGregor tamcgregor@my.waketech.edu - Accepted
